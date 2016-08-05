@@ -8,3 +8,5 @@ Made by Sidik Hadi Kurniadi
 How to use : wireshark -X lua_script:StatisTik.lua
 or
 Open a pcap file in wireshark, and then select 'TOOLS/StatisTik
+
+![alt text](Wireshark-Statistic/example.png "Example of result")
