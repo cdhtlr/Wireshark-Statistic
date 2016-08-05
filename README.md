@@ -1,6 +1,6 @@
 # Wireshark-Statistic
 
-or StatisTik is plugin to create statistic of packets based on given filter, example filter is : (tzsp &amp;&amp; ip.src == 250.250.250.250) to create statistic of MikroTik Packet Sniffer
+or StatisTik is plugin to create statistic of packets based on given filter, example filter is : (tzsp &amp;&amp; ip.src==250.250.250.250) to create statistic of MikroTik Packet Sniffer
 
 DO NOT REMOVE CREDIT and COMMENT,
 Made by Sidik Hadi Kurniadi
